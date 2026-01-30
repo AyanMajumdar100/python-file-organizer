@@ -69,19 +69,19 @@ py organizer.py
 
 ### Unorganized folder having files of different formats
 
-![Unorganized Folder](App%20Screenshots/View-Unorganized%20folder.png)
+![Unorganized Folder](https://raw.githubusercontent.com/AyanMajumdar100/python-file-organizer/main/App%20Screensots/View-Unorganized%20folder.png)
 
 ### Folder selection and confirmation
 
-![Folder Selection](App%20Screenshots/File%20Organizer%20Screen%202.png)
+![Folder Selection](https://raw.githubusercontent.com/AyanMajumdar100/python-file-organizer/main/App%20Screensots/File%20Organizer%20Screen%202.png)
 
 ### New folder structure created with completion donut chart
 
-![Organizer Result](App%20Screenshots/File%20Organizer%20Screen%203.png)
+![Organizer Result](https://raw.githubusercontent.com/AyanMajumdar100/python-file-organizer/main/App%20Screensots/File%20Organizer%20Screen%203.png)
 
 ### View of the organized folder
 
-![Organized Folder](App%20Screenshots/View-Organized%20folder.png)
+![Organized Folder](https://raw.githubusercontent.com/AyanMajumdar100/python-file-organizer/main/App%20Screensots/View-Organized%20folder.png)
 
 
 ## Configuration
